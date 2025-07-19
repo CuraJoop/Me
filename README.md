@@ -1,7 +1,6 @@
 # 👩‍💻 Me
 
 ## 📋 Coordonnées
-- 📞 Téléphone : +221 78 126 13 86  
 - ✉️ Email : couradiop731@gmail.com  
 - 📍 Adresse : Guédiawaye, Dakar, Sénégal  
 - 🎂 Âge : 20 ans  
